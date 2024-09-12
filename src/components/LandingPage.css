@@ -1,0 +1,24 @@
+/* LandingPage.css */
+.landing-page {
+    height: 100vh;
+    background-image: url('../assets/background.png'); /* Optional: Add a background image */
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+  .landing-page h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .landing-page p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .landing-page .btn {
+    font-size: 1.25rem;
+    padding: 0.75rem 2rem;
+  }
+  
